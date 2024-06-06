@@ -6,7 +6,7 @@ on:
       audience:
         type: string
         description: audience to be embedded in token
-        default: bob
+        default: GabyCustomAudience
 
 jobs:
   token_source:  
